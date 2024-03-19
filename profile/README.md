@@ -1,6 +1,6 @@
 ## PyData Dhaka
 
-![Logo](pydatadhaka-logo.svg)
+![Logo](https://github.com/pydatadhaka/.github/blob/af9c515701bc14a38b0316847d54d0218ed58cff/profile/pydatadhaka-logo.svg)
 
 <!--
 
