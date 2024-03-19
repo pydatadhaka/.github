@@ -1,6 +1,6 @@
 ## PyData Dhaka
 
-![Logo](https://github.com/pydatadhaka/.github/blob/af9c515701bc14a38b0316847d54d0218ed58cff/profile/pydatadhaka-logo.svg)
+![Logo](https://raw.githubusercontent.com/pydatadhaka/.github/main/profile/pydatadhaka.png)
 
 # About
 <a href="https://pydata.org/">PyData</a> is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other.
